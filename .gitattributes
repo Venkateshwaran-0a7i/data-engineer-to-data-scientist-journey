@@ -1,0 +1,2 @@
+Data/compatibility_pairs.csv filter=lfs diff=lfs merge=lfs -text
+Data/profiles.csv filter=lfs diff=lfs merge=lfs -text
