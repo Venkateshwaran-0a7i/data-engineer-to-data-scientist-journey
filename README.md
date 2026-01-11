@@ -1,3 +1,4 @@
+```yaml
 # 🚀 Data Engineer to Data Scientist – 90 Day Execution Journey
 
 ## 📌 Overview
@@ -33,7 +34,7 @@ By the end of 90 days, this repository will contain:
 
 
 ## 🗂 Repository Structure
-```yaml
+
 data-engineer-to-data-scientist-journey/
 │
 ├── day01_python_data_engineering/
@@ -141,6 +142,7 @@ This repository reflects **real engineering work**, including:
 
 Perfection is not the goal.  
 **Execution, correctness, and growth are.**
+
 
 
 
